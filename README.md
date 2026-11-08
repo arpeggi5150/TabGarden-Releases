@@ -5,6 +5,7 @@ files, play, loop, slow down, edit fret numbers, keep a library of your tabs, an
 MIDI, MP3, WAV or PDF.
 
 Download from **Releases**. `TabGarden-x.y.z-portable.exe` runs without installing.
+`SHA256SUMS.txt` lists each build's SHA-256; the app's updater checks it before installing.
 The builds are not code-signed yet, so Windows SmartScreen asks first: More info, then Run anyway.
 
 ## Terms
