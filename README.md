@@ -21,4 +21,4 @@ The builds are not code-signed yet, so Windows SmartScreen asks first: More info
 - FluidR3 Mono SoundFont (MIT; FluidR3 by Frank Wen, mono version by Michael Cowgill, MS General edits by S. Christian Collins), license included in the app.
 - [lamejs](https://github.com/zhuker/lamejs) (LGPL 3.0) encodes MP3s. It is a separate, unmodified file in the app; its source is at that link.
 - Bravura music font (SIL Open Font License).
-- The Kami Garden instruments are TabGarden's own.
+- The MIDI Engine instruments are TabGarden's own.
